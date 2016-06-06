@@ -99,3 +99,17 @@ DailyTaskManager/packages/EntityFramework.6.0.0/tools/EntityFramework.PowerShell
 DailyTaskManager/packages/EntityFramework.6.0.0/tools/EntityFramework.PowerShell.dll
 DailyTaskManager/packages/EntityFramework.6.0.0/tools/migrate.exe
 DailyTaskManager/DailyTaskManager/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+DailyTaskManager/DailyTaskManager/packages.config
+DailyTaskManager/packages/EntityFramework.6.1.3/EntityFramework.6.1.3.nupkg
+DailyTaskManager/packages/EntityFramework.6.1.3/content/App.config.transform
+DailyTaskManager/packages/EntityFramework.6.1.3/content/Web.config.transform
+DailyTaskManager/packages/EntityFramework.6.1.3/lib/net40/EntityFramework.SqlServer.xml
+DailyTaskManager/packages/EntityFramework.6.1.3/lib/net40/EntityFramework.xml
+DailyTaskManager/packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.xml
+DailyTaskManager/packages/EntityFramework.6.1.3/lib/net45/EntityFramework.xml
+DailyTaskManager/packages/EntityFramework.6.1.3/tools/EntityFramework.psd1
+DailyTaskManager/packages/EntityFramework.6.1.3/tools/EntityFramework.psm1
+DailyTaskManager/packages/EntityFramework.6.1.3/tools/about_EntityFramework.help.txt
+DailyTaskManager/packages/EntityFramework.6.1.3/tools/init.ps1
+DailyTaskManager/packages/EntityFramework.6.1.3/tools/install.ps1
+DailyTaskManager/DailyTaskManager/bin/Debug/EntityFramework.SqlServer.xml
