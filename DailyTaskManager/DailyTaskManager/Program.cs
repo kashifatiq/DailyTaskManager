@@ -14,7 +14,7 @@ namespace DailyTaskManager
         [STAThread]
         static void Main()
         {
-            // test 1
+            // test 2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmTasksList());
