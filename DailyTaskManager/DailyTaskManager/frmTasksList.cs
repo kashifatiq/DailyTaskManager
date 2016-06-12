@@ -13,7 +13,7 @@ namespace DailyTaskManager
 {
     public partial class frmTasksList : Form
     {
-        // test 2
+        // test 6
         DTMServices.TasksService _service = new TasksService();
         public frmTasksList()
         {
