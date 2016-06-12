@@ -46,6 +46,11 @@
     <Compile Include="TaskStatusBO.cs" />
     <Compile Include="TeamMemberBO.cs" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="6.4\Data\spData64.sql" />
+    <Content Include="6.4\sp64.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
