@@ -113,3 +113,8 @@ DailyTaskManager/packages/EntityFramework.6.1.3/tools/about_EntityFramework.help
 DailyTaskManager/packages/EntityFramework.6.1.3/tools/init.ps1
 DailyTaskManager/packages/EntityFramework.6.1.3/tools/install.ps1
 DailyTaskManager/DailyTaskManager/bin/Debug/EntityFramework.SqlServer.xml
+DailyTaskManager/EF/bin/Debug/EF.vshost.exe.manifest
+DailyTaskManager/EF/bin/Debug/EF.exe.config
+DailyTaskManager/EF/obj/Debug/EF.csproj.FileListAbsolute.txt
+DailyTaskManager/EF/bin/Debug/EF.vshost.exe.config
+DailyTaskManager/packages/EntityFramework.6.0.0/EntityFramework.6.0.0.nuspec
